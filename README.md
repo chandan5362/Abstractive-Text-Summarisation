@@ -1,2 +1,2 @@
 # Abstractive-Text-Summarisation
-Contains model and deployment script for abstractive text summarisation for Radiology impressions.
+Contains model and deployment script for abstractive text summarisation of Radiology impressions.
